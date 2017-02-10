@@ -1,0 +1,24 @@
+{
+	"json1": {
+		"service_id": "myservice",
+		"status": {
+			"healthy": true,
+			"message": "Everything is OK"
+		},
+		"events": {
+			"ok": 25,
+			"error": 4
+		}
+	},
+	"json2": {
+		"service_id": "myservice02",
+		"status": {
+			"healthy": false,
+			"message": "Everything is BAD"
+		},
+		"events": {
+			"ok": 801,
+			"error": 200
+		}
+	}
+}
