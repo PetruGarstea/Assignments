@@ -1,1 +1,1 @@
-
+This script deletes terminated AWS EC2 instances and sets the tags in Alert Logic Threat Manager console.
